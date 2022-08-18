@@ -1,6 +1,6 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Syb2Froopolus'
+project = 'Sub2Froopolus'
 copyright = '2022, Chekotay Fremming'
 author = 'Chekotay Fremming'
 
