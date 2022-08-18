@@ -79,8 +79,8 @@ html_sidebars = {
     "blog/**": ['postcard.html', 'recentposts.html', 'archives.html']
 }
 
-blog_title = "Blog "
-blog_path = "news"
+blog_title = "Top 15 Resons to Subscribe to Froopolus "
+blog_path = "Real news"
 blog_feed_length = 5
 fontawesome_included = True
 blog_post_pattern = "news/*"
